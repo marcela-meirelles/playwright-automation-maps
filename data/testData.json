@@ -1,0 +1,16 @@
+{
+  "destination": "New York, NY, USA",
+  "dates": {
+    "checkIn": "2 March 2025",
+    "checkOut": "9 March 2025"
+  },
+  "guests": {
+    "adults": 1,
+    "children": 1
+  },
+  "priceRange": {
+    "min": 100,
+    "max": 1000
+  },
+  "guestScore": "Very Good (7+)"
+}
